@@ -56,6 +56,7 @@ Refer to the printed challenge brief for full requirements.
 - No external help or collaboration allowed
 - You must use your own device and internet connection
 - All code must be written and submitted during the challenge session
+- You may use AI Assistants such as ChatGPT
 
 ---
 
