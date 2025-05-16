@@ -1,0 +1,1001 @@
+student_id,programme,school,registration_year
+1,History,School of Engineering,2022
+2,Computer Science,School of Arts,2021
+3,Economics,School of Science,2020
+4,English Literature,School of Social Sciences,2025
+5,Economics,School of Technology,2021
+6,Chemistry,School of Humanities,2020
+7,Chemistry,School of Science,2025
+8,History,School of Engineering,2024
+9,Physics,School of Humanities,2020
+10,Biology,School of Social Sciences,2024
+11,Engineering,School of Humanities,2024
+12,Chemistry,School of Science,2020
+13,Chemistry,School of Humanities,2020
+14,Economics,School of Arts,2022
+15,English Literature,School of Social Sciences,2023
+16,Chemistry,School of Science,2022
+17,Computer Science,School of Humanities,2020
+18,Economics,School of Humanities,2021
+19,Economics,School of Social Sciences,2022
+20,Engineering,School of Engineering,2024
+21,Computer Science,School of Humanities,2024
+22,Physics,School of Humanities,2024
+23,English Literature,School of Arts,2022
+24,Biology,School of Engineering,2021
+25,Mathematics,School of Social Sciences,2021
+26,Engineering,School of Arts,2025
+27,Physics,School of Social Sciences,2021
+28,Engineering,School of Humanities,2025
+29,Economics,School of Science,2020
+30,Economics,School of Social Sciences,2020
+31,Psychology,School of Technology,2020
+32,Economics,School of Science,2022
+33,Economics,School of Science,2024
+34,Biology,School of Science,2022
+35,Computer Science,School of Engineering,2021
+36,English Literature,School of Arts,2024
+37,Psychology,School of Science,2024
+38,Engineering,School of Technology,2023
+39,Psychology,School of Social Sciences,2021
+40,Engineering,School of Technology,2024
+41,English Literature,School of Technology,2024
+42,Mathematics,School of Science,2023
+43,Biology,School of Technology,2024
+44,Computer Science,School of Humanities,2024
+45,Economics,School of Humanities,2024
+46,Psychology,School of Technology,2024
+47,Chemistry,School of Engineering,2023
+48,Computer Science,School of Social Sciences,2023
+49,Engineering,School of Arts,2024
+50,English Literature,School of Arts,2023
+51,Biology,School of Technology,2022
+52,Chemistry,School of Humanities,2021
+53,Biology,School of Social Sciences,2023
+54,Mathematics,School of Humanities,2022
+55,Chemistry,School of Technology,2023
+56,Mathematics,School of Humanities,2024
+57,Computer Science,School of Arts,2024
+58,Computer Science,School of Arts,2023
+59,Biology,School of Science,2025
+60,Biology,School of Humanities,2024
+61,Computer Science,School of Science,2021
+62,Psychology,School of Social Sciences,2022
+63,Biology,School of Science,2024
+64,English Literature,School of Technology,2025
+65,English Literature,School of Engineering,2022
+66,Engineering,School of Science,2021
+67,Physics,School of Arts,2023
+68,Physics,School of Engineering,2025
+69,Mathematics,School of Engineering,2022
+70,Mathematics,School of Technology,2021
+71,Engineering,School of Social Sciences,2022
+72,Chemistry,School of Social Sciences,2025
+73,Psychology,School of Technology,2024
+74,English Literature,School of Humanities,2023
+75,Computer Science,School of Humanities,2023
+76,Mathematics,School of Science,2022
+77,Computer Science,School of Humanities,2024
+78,English Literature,School of Science,2021
+79,Mathematics,School of Social Sciences,2022
+80,English Literature,School of Arts,2021
+81,English Literature,School of Humanities,2025
+82,History,School of Science,2023
+83,Computer Science,School of Humanities,2022
+84,Chemistry,School of Social Sciences,2020
+85,Engineering,School of Science,2023
+86,Engineering,School of Science,2020
+87,Economics,School of Arts,2021
+88,History,School of Social Sciences,2024
+89,Psychology,School of Arts,2022
+90,Economics,School of Engineering,2022
+91,English Literature,School of Science,2022
+92,Economics,School of Science,2024
+93,Computer Science,School of Social Sciences,2025
+94,English Literature,School of Engineering,2022
+95,Psychology,School of Humanities,2022
+96,Economics,School of Arts,2021
+97,Economics,School of Technology,2022
+98,Economics,School of Arts,2023
+99,Physics,School of Science,2022
+100,Chemistry,School of Engineering,2024
+101,Economics,School of Social Sciences,2024
+102,History,School of Engineering,2023
+103,Economics,School of Arts,2024
+104,Chemistry,School of Social Sciences,2021
+105,Physics,School of Arts,2021
+106,Engineering,School of Science,2025
+107,Psychology,School of Humanities,2025
+108,Chemistry,School of Engineering,2020
+109,Economics,School of Technology,2024
+110,Chemistry,School of Social Sciences,2025
+111,Chemistry,School of Social Sciences,2022
+112,Engineering,School of Engineering,2021
+113,Engineering,School of Arts,2023
+114,History,School of Engineering,2021
+115,Physics,School of Arts,2023
+116,Engineering,School of Arts,2022
+117,Computer Science,School of Science,2022
+118,English Literature,School of Social Sciences,2020
+119,Physics,School of Technology,2025
+120,Mathematics,School of Humanities,2025
+121,Physics,School of Engineering,2024
+122,Mathematics,School of Social Sciences,2025
+123,Economics,School of Technology,2022
+124,Computer Science,School of Technology,2023
+125,Biology,School of Arts,2025
+126,Biology,School of Technology,2025
+127,English Literature,School of Engineering,2024
+128,Psychology,School of Science,2020
+129,History,School of Humanities,2022
+130,English Literature,School of Engineering,2022
+131,Engineering,School of Humanities,2020
+132,Mathematics,School of Social Sciences,2020
+133,Economics,School of Engineering,2023
+134,Mathematics,School of Social Sciences,2021
+135,Biology,School of Social Sciences,2022
+136,History,School of Arts,2025
+137,Computer Science,School of Technology,2024
+138,Biology,School of Social Sciences,2020
+139,History,School of Science,2025
+140,Physics,School of Social Sciences,2021
+141,English Literature,School of Engineering,2020
+142,English Literature,School of Social Sciences,2021
+143,History,School of Humanities,2024
+144,Psychology,School of Science,2022
+145,Physics,School of Technology,2021
+146,Chemistry,School of Science,2025
+147,Computer Science,School of Science,2024
+148,Biology,School of Arts,2025
+149,Computer Science,School of Engineering,2020
+150,Psychology,School of Technology,2022
+151,Psychology,School of Engineering,2025
+152,Computer Science,School of Engineering,2023
+153,Engineering,School of Science,2025
+154,Economics,School of Technology,2023
+155,History,School of Engineering,2024
+156,Chemistry,School of Social Sciences,2023
+157,Biology,School of Engineering,2020
+158,Physics,School of Engineering,2021
+159,Economics,School of Social Sciences,2022
+160,Engineering,School of Science,2022
+161,English Literature,School of Arts,2025
+162,Biology,School of Social Sciences,2020
+163,Biology,School of Technology,2022
+164,History,School of Social Sciences,2022
+165,Chemistry,School of Science,2024
+166,English Literature,School of Arts,2023
+167,History,School of Arts,2022
+168,Mathematics,School of Science,2021
+169,Mathematics,School of Humanities,2024
+170,Psychology,School of Science,2024
+171,Engineering,School of Arts,2022
+172,Psychology,School of Technology,2022
+173,Chemistry,School of Technology,2024
+174,English Literature,School of Social Sciences,2022
+175,Biology,School of Humanities,2021
+176,Engineering,School of Arts,2025
+177,Mathematics,School of Arts,2024
+178,Psychology,School of Social Sciences,2020
+179,History,School of Social Sciences,2025
+180,English Literature,School of Humanities,2022
+181,Chemistry,School of Humanities,2024
+182,Engineering,School of Humanities,2024
+183,Computer Science,School of Technology,2020
+184,Mathematics,School of Science,2020
+185,Biology,School of Science,2025
+186,Chemistry,School of Science,2025
+187,History,School of Technology,2020
+188,Chemistry,School of Science,2021
+189,Biology,School of Arts,2022
+190,History,School of Humanities,2025
+191,Chemistry,School of Science,2021
+192,Mathematics,School of Social Sciences,2022
+193,Mathematics,School of Science,2024
+194,History,School of Engineering,2022
+195,English Literature,School of Science,2023
+196,Chemistry,School of Science,2021
+197,Chemistry,School of Engineering,2020
+198,Economics,School of Humanities,2023
+199,Chemistry,School of Social Sciences,2020
+200,Engineering,School of Humanities,2024
+201,Chemistry,School of Social Sciences,2024
+202,Psychology,School of Arts,2024
+203,Physics,School of Arts,2022
+204,Computer Science,School of Technology,2025
+205,Chemistry,School of Social Sciences,2024
+206,Mathematics,School of Engineering,2021
+207,English Literature,School of Arts,2024
+208,Computer Science,School of Social Sciences,2023
+209,Engineering,School of Social Sciences,2021
+210,Chemistry,School of Technology,2024
+211,Mathematics,School of Science,2025
+212,Economics,School of Engineering,2024
+213,Economics,School of Arts,2022
+214,English Literature,School of Humanities,2022
+215,Mathematics,School of Science,2022
+216,Mathematics,School of Engineering,2025
+217,Physics,School of Technology,2023
+218,History,School of Technology,2024
+219,Computer Science,School of Technology,2024
+220,Psychology,School of Arts,2023
+221,History,School of Technology,2025
+222,Biology,School of Science,2024
+223,Chemistry,School of Arts,2020
+224,English Literature,School of Engineering,2025
+225,Physics,School of Arts,2022
+226,Engineering,School of Social Sciences,2021
+227,Psychology,School of Social Sciences,2022
+228,Computer Science,School of Science,2021
+229,Engineering,School of Science,2025
+230,History,School of Social Sciences,2022
+231,Engineering,School of Humanities,2023
+232,Physics,School of Science,2021
+233,Physics,School of Engineering,2020
+234,Physics,School of Science,2022
+235,English Literature,School of Engineering,2024
+236,Mathematics,School of Science,2020
+237,Biology,School of Arts,2024
+238,Mathematics,School of Engineering,2022
+239,English Literature,School of Technology,2020
+240,Engineering,School of Science,2020
+241,Economics,School of Humanities,2023
+242,Biology,School of Humanities,2023
+243,Biology,School of Arts,2024
+244,Physics,School of Humanities,2025
+245,Biology,School of Arts,2025
+246,Economics,School of Social Sciences,2020
+247,Computer Science,School of Science,2025
+248,Biology,School of Arts,2023
+249,Psychology,School of Social Sciences,2020
+250,Physics,School of Arts,2025
+251,English Literature,School of Arts,2021
+252,History,School of Science,2023
+253,Mathematics,School of Social Sciences,2022
+254,Psychology,School of Technology,2021
+255,History,School of Science,2022
+256,History,School of Technology,2021
+257,English Literature,School of Arts,2021
+258,English Literature,School of Arts,2025
+259,Biology,School of Engineering,2023
+260,Chemistry,School of Science,2025
+261,Economics,School of Engineering,2024
+262,Economics,School of Technology,2024
+263,Mathematics,School of Science,2023
+264,Economics,School of Technology,2020
+265,Mathematics,School of Arts,2020
+266,Psychology,School of Social Sciences,2025
+267,Physics,School of Arts,2023
+268,Mathematics,School of Engineering,2021
+269,Physics,School of Science,2023
+270,Engineering,School of Technology,2024
+271,English Literature,School of Social Sciences,2023
+272,Computer Science,School of Engineering,2022
+273,History,School of Social Sciences,2020
+274,Chemistry,School of Social Sciences,2021
+275,Biology,School of Engineering,2025
+276,Mathematics,School of Engineering,2023
+277,Mathematics,School of Technology,2024
+278,Mathematics,School of Social Sciences,2024
+279,Mathematics,School of Social Sciences,2022
+280,Engineering,School of Arts,2024
+281,Physics,School of Humanities,2021
+282,Economics,School of Technology,2021
+283,History,School of Arts,2024
+284,Economics,School of Engineering,2022
+285,Economics,School of Engineering,2020
+286,Physics,School of Humanities,2021
+287,Economics,School of Arts,2021
+288,Physics,School of Technology,2022
+289,Engineering,School of Engineering,2021
+290,Chemistry,School of Technology,2024
+291,Computer Science,School of Technology,2023
+292,Mathematics,School of Social Sciences,2024
+293,Computer Science,School of Humanities,2024
+294,Engineering,School of Technology,2023
+295,English Literature,School of Engineering,2020
+296,Psychology,School of Engineering,2023
+297,Economics,School of Social Sciences,2025
+298,Computer Science,School of Technology,2024
+299,Economics,School of Technology,2022
+300,Engineering,School of Arts,2024
+301,Chemistry,School of Science,2024
+302,Economics,School of Science,2025
+303,Mathematics,School of Science,2021
+304,Physics,School of Technology,2024
+305,Biology,School of Engineering,2025
+306,Psychology,School of Technology,2025
+307,Physics,School of Engineering,2025
+308,History,School of Technology,2023
+309,Computer Science,School of Science,2023
+310,Physics,School of Humanities,2021
+311,Engineering,School of Humanities,2022
+312,Economics,School of Social Sciences,2021
+313,English Literature,School of Social Sciences,2021
+314,Physics,School of Arts,2024
+315,Mathematics,School of Science,2020
+316,Psychology,School of Arts,2023
+317,Psychology,School of Humanities,2021
+318,Biology,School of Technology,2023
+319,Psychology,School of Social Sciences,2025
+320,Mathematics,School of Science,2023
+321,Engineering,School of Science,2022
+322,Psychology,School of Science,2024
+323,Economics,School of Arts,2023
+324,Psychology,School of Arts,2020
+325,Engineering,School of Science,2023
+326,English Literature,School of Social Sciences,2024
+327,Chemistry,School of Social Sciences,2024
+328,Chemistry,School of Social Sciences,2025
+329,Psychology,School of Arts,2024
+330,Computer Science,School of Arts,2023
+331,Biology,School of Engineering,2022
+332,History,School of Engineering,2024
+333,Biology,School of Social Sciences,2023
+334,History,School of Science,2024
+335,Biology,School of Science,2024
+336,History,School of Social Sciences,2024
+337,English Literature,School of Science,2025
+338,Psychology,School of Social Sciences,2024
+339,English Literature,School of Social Sciences,2024
+340,Physics,School of Science,2020
+341,Economics,School of Engineering,2023
+342,Economics,School of Arts,2025
+343,Economics,School of Science,2021
+344,Engineering,School of Engineering,2022
+345,Psychology,School of Technology,2020
+346,English Literature,School of Engineering,2024
+347,History,School of Engineering,2023
+348,Chemistry,School of Social Sciences,2025
+349,Economics,School of Technology,2023
+350,Biology,School of Technology,2022
+351,Engineering,School of Engineering,2025
+352,Physics,School of Technology,2022
+353,Engineering,School of Technology,2022
+354,Chemistry,School of Engineering,2020
+355,Engineering,School of Social Sciences,2025
+356,Psychology,School of Science,2025
+357,Chemistry,School of Arts,2024
+358,Mathematics,School of Social Sciences,2025
+359,Physics,School of Arts,2024
+360,English Literature,School of Technology,2025
+361,English Literature,School of Science,2020
+362,Computer Science,School of Humanities,2023
+363,Economics,School of Technology,2024
+364,Psychology,School of Technology,2020
+365,Chemistry,School of Humanities,2023
+366,Engineering,School of Technology,2020
+367,Physics,School of Engineering,2024
+368,Psychology,School of Humanities,2023
+369,History,School of Humanities,2020
+370,Chemistry,School of Science,2025
+371,English Literature,School of Engineering,2022
+372,Economics,School of Technology,2025
+373,History,School of Social Sciences,2020
+374,History,School of Technology,2020
+375,English Literature,School of Arts,2022
+376,English Literature,School of Science,2020
+377,Physics,School of Social Sciences,2023
+378,Chemistry,School of Humanities,2025
+379,Mathematics,School of Humanities,2023
+380,Psychology,School of Humanities,2020
+381,English Literature,School of Technology,2023
+382,Mathematics,School of Humanities,2023
+383,Chemistry,School of Humanities,2025
+384,Mathematics,School of Engineering,2024
+385,History,School of Social Sciences,2021
+386,Biology,School of Technology,2020
+387,Biology,School of Social Sciences,2025
+388,Chemistry,School of Social Sciences,2020
+389,Chemistry,School of Technology,2025
+390,Psychology,School of Arts,2021
+391,Biology,School of Technology,2024
+392,Physics,School of Social Sciences,2020
+393,History,School of Humanities,2023
+394,Biology,School of Social Sciences,2025
+395,History,School of Engineering,2024
+396,Mathematics,School of Arts,2023
+397,Physics,School of Technology,2020
+398,Chemistry,School of Arts,2023
+399,History,School of Arts,2024
+400,History,School of Science,2021
+401,Psychology,School of Humanities,2023
+402,History,School of Science,2020
+403,Computer Science,School of Science,2021
+404,History,School of Social Sciences,2024
+405,Engineering,School of Engineering,2021
+406,English Literature,School of Engineering,2022
+407,Biology,School of Humanities,2021
+408,Physics,School of Technology,2020
+409,Physics,School of Humanities,2020
+410,Economics,School of Engineering,2025
+411,History,School of Social Sciences,2024
+412,Mathematics,School of Engineering,2025
+413,Chemistry,School of Science,2023
+414,Biology,School of Science,2020
+415,Engineering,School of Science,2024
+416,Physics,School of Humanities,2024
+417,Mathematics,School of Social Sciences,2022
+418,Biology,School of Arts,2020
+419,Mathematics,School of Technology,2020
+420,Psychology,School of Engineering,2023
+421,English Literature,School of Science,2020
+422,History,School of Social Sciences,2021
+423,Physics,School of Technology,2021
+424,Chemistry,School of Engineering,2025
+425,Physics,School of Humanities,2023
+426,History,School of Social Sciences,2025
+427,Computer Science,School of Engineering,2023
+428,Engineering,School of Science,2020
+429,Mathematics,School of Technology,2023
+430,Physics,School of Engineering,2023
+431,Biology,School of Social Sciences,2025
+432,English Literature,School of Arts,2025
+433,History,School of Science,2023
+434,Economics,School of Social Sciences,2020
+435,Economics,School of Humanities,2020
+436,Economics,School of Social Sciences,2021
+437,Psychology,School of Science,2020
+438,Computer Science,School of Arts,2022
+439,Mathematics,School of Social Sciences,2025
+440,Psychology,School of Science,2025
+441,Computer Science,School of Humanities,2025
+442,Physics,School of Humanities,2021
+443,English Literature,School of Arts,2024
+444,Biology,School of Humanities,2025
+445,Mathematics,School of Arts,2021
+446,History,School of Technology,2022
+447,Biology,School of Technology,2024
+448,Engineering,School of Engineering,2025
+449,English Literature,School of Technology,2022
+450,Physics,School of Science,2020
+451,Mathematics,School of Engineering,2022
+452,Physics,School of Technology,2025
+453,Economics,School of Engineering,2023
+454,Chemistry,School of Engineering,2025
+455,Chemistry,School of Engineering,2023
+456,English Literature,School of Social Sciences,2023
+457,English Literature,School of Social Sciences,2025
+458,Economics,School of Arts,2025
+459,Chemistry,School of Engineering,2025
+460,Engineering,School of Technology,2022
+461,Psychology,School of Engineering,2024
+462,Computer Science,School of Arts,2020
+463,Psychology,School of Technology,2025
+464,Chemistry,School of Humanities,2023
+465,Engineering,School of Technology,2023
+466,Engineering,School of Technology,2022
+467,Chemistry,School of Engineering,2023
+468,Economics,School of Science,2022
+469,Mathematics,School of Science,2024
+470,Psychology,School of Engineering,2023
+471,Economics,School of Social Sciences,2022
+472,Computer Science,School of Social Sciences,2022
+473,Engineering,School of Technology,2020
+474,Physics,School of Arts,2022
+475,Physics,School of Engineering,2022
+476,Economics,School of Engineering,2022
+477,Chemistry,School of Arts,2022
+478,Mathematics,School of Technology,2020
+479,Psychology,School of Science,2024
+480,Computer Science,School of Science,2022
+481,Psychology,School of Engineering,2023
+482,English Literature,School of Social Sciences,2021
+483,History,School of Science,2020
+484,History,School of Technology,2020
+485,Chemistry,School of Humanities,2023
+486,English Literature,School of Engineering,2023
+487,History,School of Technology,2020
+488,Biology,School of Science,2022
+489,Engineering,School of Science,2021
+490,History,School of Technology,2024
+491,Engineering,School of Humanities,2020
+492,English Literature,School of Technology,2023
+493,Biology,School of Technology,2021
+494,History,School of Science,2021
+495,Physics,School of Humanities,2021
+496,Physics,School of Technology,2025
+497,Biology,School of Technology,2022
+498,Physics,School of Social Sciences,2025
+499,Physics,School of Arts,2021
+500,History,School of Engineering,2021
+501,Physics,School of Social Sciences,2021
+502,Biology,School of Arts,2021
+503,Physics,School of Social Sciences,2020
+504,Mathematics,School of Social Sciences,2020
+505,Mathematics,School of Arts,2021
+506,Physics,School of Engineering,2021
+507,Economics,School of Engineering,2024
+508,Physics,School of Science,2021
+509,History,School of Humanities,2025
+510,Biology,School of Science,2025
+511,Psychology,School of Arts,2022
+512,History,School of Technology,2021
+513,Physics,School of Social Sciences,2025
+514,Physics,School of Social Sciences,2025
+515,Mathematics,School of Engineering,2021
+516,Economics,School of Humanities,2025
+517,Physics,School of Humanities,2021
+518,Computer Science,School of Science,2023
+519,Chemistry,School of Technology,2021
+520,Chemistry,School of Science,2023
+521,Engineering,School of Science,2022
+522,Chemistry,School of Engineering,2025
+523,Chemistry,School of Social Sciences,2022
+524,Psychology,School of Arts,2024
+525,Engineering,School of Humanities,2021
+526,History,School of Social Sciences,2020
+527,Biology,School of Science,2025
+528,Mathematics,School of Technology,2020
+529,Mathematics,School of Technology,2022
+530,Chemistry,School of Arts,2023
+531,History,School of Humanities,2020
+532,History,School of Science,2021
+533,Mathematics,School of Engineering,2021
+534,Chemistry,School of Arts,2021
+535,Economics,School of Science,2022
+536,Biology,School of Engineering,2021
+537,Computer Science,School of Humanities,2025
+538,Psychology,School of Humanities,2020
+539,Biology,School of Social Sciences,2023
+540,Engineering,School of Science,2024
+541,Computer Science,School of Engineering,2021
+542,Chemistry,School of Technology,2020
+543,Chemistry,School of Technology,2025
+544,Economics,School of Arts,2022
+545,History,School of Technology,2025
+546,Psychology,School of Humanities,2023
+547,Psychology,School of Humanities,2021
+548,Mathematics,School of Technology,2020
+549,History,School of Social Sciences,2025
+550,Chemistry,School of Arts,2022
+551,Chemistry,School of Arts,2021
+552,Biology,School of Social Sciences,2024
+553,Computer Science,School of Arts,2024
+554,Economics,School of Science,2022
+555,Psychology,School of Arts,2020
+556,Engineering,School of Science,2025
+557,Engineering,School of Social Sciences,2025
+558,Chemistry,School of Social Sciences,2022
+559,History,School of Arts,2020
+560,History,School of Arts,2022
+561,History,School of Engineering,2022
+562,Chemistry,School of Engineering,2025
+563,Mathematics,School of Arts,2020
+564,English Literature,School of Social Sciences,2022
+565,Engineering,School of Arts,2025
+566,Chemistry,School of Science,2021
+567,Chemistry,School of Arts,2023
+568,Economics,School of Science,2020
+569,Biology,School of Science,2021
+570,History,School of Arts,2025
+571,English Literature,School of Engineering,2025
+572,Physics,School of Arts,2025
+573,Computer Science,School of Technology,2020
+574,Mathematics,School of Engineering,2023
+575,Economics,School of Engineering,2023
+576,Computer Science,School of Humanities,2024
+577,Biology,School of Engineering,2021
+578,Physics,School of Humanities,2025
+579,Chemistry,School of Social Sciences,2021
+580,Chemistry,School of Social Sciences,2020
+581,Computer Science,School of Technology,2022
+582,History,School of Arts,2022
+583,Engineering,School of Humanities,2025
+584,Physics,School of Science,2025
+585,Physics,School of Technology,2024
+586,Psychology,School of Science,2021
+587,Mathematics,School of Arts,2020
+588,Engineering,School of Technology,2022
+589,History,School of Social Sciences,2025
+590,Psychology,School of Technology,2023
+591,Chemistry,School of Arts,2022
+592,Psychology,School of Humanities,2024
+593,Computer Science,School of Science,2020
+594,Biology,School of Arts,2020
+595,Biology,School of Humanities,2020
+596,Computer Science,School of Technology,2020
+597,Engineering,School of Humanities,2021
+598,Physics,School of Engineering,2024
+599,Biology,School of Technology,2021
+600,Physics,School of Technology,2021
+601,Psychology,School of Social Sciences,2024
+602,Psychology,School of Arts,2022
+603,English Literature,School of Science,2023
+604,Engineering,School of Humanities,2022
+605,Economics,School of Engineering,2024
+606,Computer Science,School of Humanities,2021
+607,Biology,School of Social Sciences,2022
+608,Mathematics,School of Humanities,2021
+609,English Literature,School of Humanities,2022
+610,Economics,School of Technology,2021
+611,Engineering,School of Arts,2023
+612,History,School of Social Sciences,2022
+613,Economics,School of Science,2021
+614,History,School of Arts,2020
+615,Physics,School of Science,2023
+616,History,School of Engineering,2022
+617,Computer Science,School of Arts,2021
+618,Computer Science,School of Technology,2025
+619,English Literature,School of Arts,2025
+620,Chemistry,School of Engineering,2023
+621,Engineering,School of Arts,2023
+622,Engineering,School of Arts,2025
+623,Engineering,School of Technology,2021
+624,Psychology,School of Humanities,2020
+625,Chemistry,School of Technology,2020
+626,Economics,School of Arts,2023
+627,Biology,School of Engineering,2024
+628,Engineering,School of Technology,2022
+629,Psychology,School of Science,2020
+630,Chemistry,School of Arts,2020
+631,Physics,School of Technology,2024
+632,Psychology,School of Engineering,2023
+633,Psychology,School of Engineering,2025
+634,English Literature,School of Science,2021
+635,Mathematics,School of Technology,2023
+636,Physics,School of Arts,2022
+637,Psychology,School of Science,2024
+638,Mathematics,School of Arts,2025
+639,History,School of Social Sciences,2021
+640,English Literature,School of Social Sciences,2024
+641,Computer Science,School of Technology,2020
+642,Psychology,School of Arts,2020
+643,Psychology,School of Humanities,2021
+644,Engineering,School of Engineering,2023
+645,Physics,School of Social Sciences,2022
+646,Psychology,School of Social Sciences,2022
+647,Mathematics,School of Technology,2025
+648,Economics,School of Engineering,2020
+649,Chemistry,School of Arts,2022
+650,Physics,School of Humanities,2020
+651,Physics,School of Engineering,2024
+652,Psychology,School of Arts,2023
+653,Computer Science,School of Engineering,2020
+654,Computer Science,School of Science,2024
+655,Mathematics,School of Engineering,2025
+656,Biology,School of Technology,2020
+657,Engineering,School of Science,2020
+658,English Literature,School of Science,2021
+659,Biology,School of Humanities,2023
+660,Chemistry,School of Technology,2021
+661,Computer Science,School of Engineering,2020
+662,Psychology,School of Social Sciences,2022
+663,History,School of Technology,2024
+664,English Literature,School of Arts,2024
+665,Economics,School of Science,2022
+666,Computer Science,School of Engineering,2023
+667,Psychology,School of Arts,2020
+668,Computer Science,School of Engineering,2022
+669,Economics,School of Technology,2022
+670,Biology,School of Engineering,2025
+671,Computer Science,School of Science,2021
+672,Psychology,School of Technology,2022
+673,Psychology,School of Social Sciences,2020
+674,Computer Science,School of Social Sciences,2023
+675,Chemistry,School of Science,2020
+676,Engineering,School of Social Sciences,2020
+677,Computer Science,School of Arts,2023
+678,Physics,School of Science,2020
+679,Economics,School of Humanities,2023
+680,Economics,School of Arts,2024
+681,Engineering,School of Technology,2021
+682,Mathematics,School of Technology,2024
+683,Physics,School of Arts,2021
+684,English Literature,School of Humanities,2023
+685,English Literature,School of Technology,2021
+686,Economics,School of Arts,2022
+687,History,School of Engineering,2022
+688,English Literature,School of Science,2020
+689,Economics,School of Social Sciences,2020
+690,English Literature,School of Social Sciences,2020
+691,Psychology,School of Science,2024
+692,Psychology,School of Humanities,2023
+693,English Literature,School of Science,2025
+694,Computer Science,School of Arts,2025
+695,Psychology,School of Science,2024
+696,Physics,School of Technology,2024
+697,Engineering,School of Arts,2023
+698,Computer Science,School of Social Sciences,2022
+699,Psychology,School of Science,2021
+700,English Literature,School of Science,2020
+701,Biology,School of Social Sciences,2024
+702,Psychology,School of Arts,2021
+703,Physics,School of Humanities,2024
+704,Mathematics,School of Engineering,2022
+705,English Literature,School of Social Sciences,2020
+706,History,School of Social Sciences,2020
+707,History,School of Arts,2020
+708,Chemistry,School of Arts,2023
+709,Economics,School of Humanities,2024
+710,Chemistry,School of Humanities,2022
+711,Mathematics,School of Social Sciences,2022
+712,Physics,School of Engineering,2024
+713,English Literature,School of Humanities,2022
+714,Psychology,School of Arts,2024
+715,Mathematics,School of Science,2020
+716,Mathematics,School of Humanities,2021
+717,Economics,School of Social Sciences,2024
+718,English Literature,School of Technology,2024
+719,Psychology,School of Arts,2022
+720,History,School of Humanities,2021
+721,Computer Science,School of Social Sciences,2021
+722,Mathematics,School of Social Sciences,2023
+723,English Literature,School of Social Sciences,2025
+724,English Literature,School of Technology,2025
+725,Economics,School of Humanities,2025
+726,History,School of Humanities,2020
+727,Physics,School of Arts,2025
+728,Mathematics,School of Social Sciences,2020
+729,Chemistry,School of Social Sciences,2024
+730,Biology,School of Engineering,2022
+731,Physics,School of Engineering,2021
+732,History,School of Humanities,2022
+733,Economics,School of Technology,2021
+734,Engineering,School of Humanities,2020
+735,Economics,School of Technology,2023
+736,Physics,School of Engineering,2022
+737,English Literature,School of Science,2025
+738,Mathematics,School of Technology,2020
+739,English Literature,School of Humanities,2025
+740,Physics,School of Technology,2024
+741,Economics,School of Arts,2020
+742,History,School of Arts,2023
+743,Chemistry,School of Social Sciences,2023
+744,Biology,School of Social Sciences,2021
+745,Economics,School of Engineering,2020
+746,Economics,School of Humanities,2022
+747,Physics,School of Technology,2025
+748,Engineering,School of Engineering,2022
+749,English Literature,School of Social Sciences,2022
+750,Engineering,School of Engineering,2023
+751,Physics,School of Science,2025
+752,Computer Science,School of Engineering,2022
+753,Computer Science,School of Humanities,2022
+754,Psychology,School of Arts,2022
+755,History,School of Humanities,2020
+756,Physics,School of Technology,2021
+757,Chemistry,School of Humanities,2021
+758,Mathematics,School of Technology,2024
+759,Chemistry,School of Social Sciences,2023
+760,English Literature,School of Engineering,2024
+761,History,School of Humanities,2022
+762,Biology,School of Science,2025
+763,Economics,School of Engineering,2020
+764,Physics,School of Technology,2022
+765,Psychology,School of Science,2022
+766,Psychology,School of Humanities,2022
+767,Engineering,School of Technology,2025
+768,Economics,School of Science,2023
+769,Psychology,School of Social Sciences,2022
+770,Chemistry,School of Arts,2024
+771,Mathematics,School of Arts,2022
+772,Psychology,School of Arts,2022
+773,Engineering,School of Science,2023
+774,Mathematics,School of Engineering,2022
+775,Physics,School of Arts,2025
+776,Mathematics,School of Science,2020
+777,Economics,School of Humanities,2025
+778,Economics,School of Technology,2025
+779,Physics,School of Arts,2023
+780,Biology,School of Social Sciences,2022
+781,English Literature,School of Humanities,2022
+782,Biology,School of Engineering,2021
+783,Chemistry,School of Technology,2023
+784,Chemistry,School of Science,2023
+785,History,School of Engineering,2025
+786,Chemistry,School of Arts,2020
+787,Mathematics,School of Technology,2025
+788,Economics,School of Engineering,2022
+789,Engineering,School of Arts,2024
+790,Chemistry,School of Humanities,2023
+791,Biology,School of Humanities,2022
+792,English Literature,School of Engineering,2025
+793,History,School of Technology,2022
+794,Engineering,School of Technology,2021
+795,Chemistry,School of Humanities,2021
+796,Engineering,School of Technology,2021
+797,Mathematics,School of Arts,2020
+798,Physics,School of Science,2022
+799,Engineering,School of Technology,2020
+800,English Literature,School of Social Sciences,2020
+801,History,School of Science,2021
+802,Computer Science,School of Humanities,2023
+803,Engineering,School of Social Sciences,2020
+804,Biology,School of Humanities,2021
+805,Physics,School of Science,2020
+806,Computer Science,School of Arts,2025
+807,Mathematics,School of Engineering,2020
+808,Psychology,School of Technology,2020
+809,English Literature,School of Engineering,2025
+810,Economics,School of Technology,2025
+811,Chemistry,School of Arts,2021
+812,English Literature,School of Engineering,2021
+813,Computer Science,School of Engineering,2024
+814,Economics,School of Science,2020
+815,Physics,School of Technology,2020
+816,Chemistry,School of Technology,2024
+817,Psychology,School of Technology,2021
+818,History,School of Social Sciences,2025
+819,Engineering,School of Humanities,2025
+820,Psychology,School of Humanities,2024
+821,Economics,School of Technology,2022
+822,Economics,School of Humanities,2025
+823,Biology,School of Social Sciences,2023
+824,Economics,School of Humanities,2020
+825,Physics,School of Science,2025
+826,Computer Science,School of Humanities,2021
+827,English Literature,School of Science,2024
+828,History,School of Arts,2022
+829,Psychology,School of Technology,2021
+830,Biology,School of Social Sciences,2020
+831,Computer Science,School of Technology,2024
+832,Computer Science,School of Social Sciences,2025
+833,English Literature,School of Social Sciences,2023
+834,Economics,School of Arts,2023
+835,Engineering,School of Arts,2020
+836,Psychology,School of Technology,2020
+837,Chemistry,School of Arts,2022
+838,Physics,School of Engineering,2023
+839,English Literature,School of Humanities,2022
+840,Mathematics,School of Technology,2025
+841,Psychology,School of Humanities,2020
+842,Physics,School of Science,2021
+843,Engineering,School of Science,2022
+844,Psychology,School of Technology,2025
+845,Psychology,School of Social Sciences,2025
+846,Biology,School of Engineering,2024
+847,Chemistry,School of Arts,2022
+848,History,School of Social Sciences,2024
+849,Physics,School of Technology,2021
+850,Biology,School of Social Sciences,2025
+851,Computer Science,School of Humanities,2023
+852,Physics,School of Social Sciences,2025
+853,Physics,School of Science,2022
+854,Economics,School of Technology,2023
+855,Mathematics,School of Engineering,2023
+856,Physics,School of Humanities,2023
+857,Computer Science,School of Science,2021
+858,English Literature,School of Arts,2024
+859,Mathematics,School of Technology,2022
+860,History,School of Arts,2023
+861,Engineering,School of Humanities,2022
+862,History,School of Social Sciences,2025
+863,Mathematics,School of Science,2020
+864,Computer Science,School of Technology,2022
+865,History,School of Social Sciences,2024
+866,Chemistry,School of Engineering,2023
+867,Psychology,School of Arts,2025
+868,Economics,School of Arts,2024
+869,Biology,School of Social Sciences,2025
+870,History,School of Engineering,2023
+871,Physics,School of Arts,2023
+872,Economics,School of Technology,2020
+873,History,School of Arts,2023
+874,Economics,School of Arts,2024
+875,Engineering,School of Science,2024
+876,Chemistry,School of Science,2022
+877,Economics,School of Engineering,2023
+878,Chemistry,School of Engineering,2022
+879,Chemistry,School of Science,2020
+880,Mathematics,School of Technology,2022
+881,English Literature,School of Technology,2022
+882,Chemistry,School of Science,2020
+883,Chemistry,School of Engineering,2025
+884,Chemistry,School of Science,2024
+885,Engineering,School of Social Sciences,2021
+886,Chemistry,School of Humanities,2025
+887,English Literature,School of Humanities,2022
+888,Biology,School of Humanities,2023
+889,Economics,School of Science,2025
+890,Physics,School of Science,2024
+891,Biology,School of Technology,2023
+892,Mathematics,School of Science,2020
+893,Psychology,School of Humanities,2025
+894,Mathematics,School of Humanities,2025
+895,Engineering,School of Arts,2025
+896,Biology,School of Engineering,2022
+897,English Literature,School of Arts,2023
+898,Psychology,School of Technology,2020
+899,Biology,School of Social Sciences,2022
+900,Computer Science,School of Engineering,2023
+901,Computer Science,School of Arts,2024
+902,History,School of Social Sciences,2020
+903,Physics,School of Social Sciences,2021
+904,Computer Science,School of Engineering,2025
+905,Biology,School of Social Sciences,2020
+906,History,School of Engineering,2022
+907,Physics,School of Engineering,2023
+908,Physics,School of Arts,2025
+909,Biology,School of Technology,2020
+910,History,School of Social Sciences,2022
+911,Psychology,School of Engineering,2020
+912,Chemistry,School of Social Sciences,2020
+913,Engineering,School of Humanities,2025
+914,Mathematics,School of Engineering,2021
+915,English Literature,School of Science,2022
+916,Psychology,School of Arts,2024
+917,Psychology,School of Humanities,2022
+918,Engineering,School of Engineering,2025
+919,Mathematics,School of Arts,2020
+920,Psychology,School of Humanities,2022
+921,Psychology,School of Humanities,2020
+922,Psychology,School of Humanities,2021
+923,Computer Science,School of Engineering,2021
+924,English Literature,School of Science,2024
+925,Computer Science,School of Humanities,2021
+926,Physics,School of Engineering,2022
+927,Biology,School of Social Sciences,2025
+928,English Literature,School of Social Sciences,2020
+929,English Literature,School of Technology,2020
+930,Psychology,School of Humanities,2025
+931,Psychology,School of Social Sciences,2024
+932,Biology,School of Engineering,2025
+933,Engineering,School of Social Sciences,2021
+934,Psychology,School of Humanities,2025
+935,Physics,School of Technology,2021
+936,Biology,School of Humanities,2021
+937,Engineering,School of Humanities,2020
+938,History,School of Humanities,2024
+939,Mathematics,School of Science,2022
+940,Computer Science,School of Science,2021
+941,Economics,School of Arts,2024
+942,Chemistry,School of Social Sciences,2025
+943,Economics,School of Science,2020
+944,Psychology,School of Arts,2024
+945,Chemistry,School of Social Sciences,2024
+946,Chemistry,School of Arts,2021
+947,Physics,School of Technology,2021
+948,History,School of Engineering,2025
+949,History,School of Arts,2022
+950,Chemistry,School of Social Sciences,2022
+951,Mathematics,School of Arts,2022
+952,Engineering,School of Social Sciences,2024
+953,Chemistry,School of Science,2021
+954,Psychology,School of Arts,2024
+955,English Literature,School of Humanities,2023
+956,Computer Science,School of Science,2025
+957,Computer Science,School of Humanities,2023
+958,Physics,School of Science,2020
+959,History,School of Technology,2021
+960,Psychology,School of Engineering,2024
+961,Mathematics,School of Technology,2024
+962,Psychology,School of Arts,2021
+963,Chemistry,School of Engineering,2024
+964,Psychology,School of Science,2022
+965,Computer Science,School of Humanities,2025
+966,Chemistry,School of Social Sciences,2021
+967,Economics,School of Technology,2020
+968,Physics,School of Science,2023
+969,Computer Science,School of Humanities,2021
+970,Economics,School of Humanities,2020
+971,Biology,School of Humanities,2021
+972,Biology,School of Science,2020
+973,Biology,School of Engineering,2022
+974,Computer Science,School of Technology,2020
+975,Biology,School of Engineering,2024
+976,Engineering,School of Technology,2023
+977,Chemistry,School of Social Sciences,2021
+978,History,School of Humanities,2024
+979,Economics,School of Arts,2024
+980,Biology,School of Engineering,2020
+981,Biology,School of Arts,2025
+982,Mathematics,School of Engineering,2022
+983,Physics,School of Arts,2023
+984,Engineering,School of Engineering,2020
+985,History,School of Engineering,2023
+986,Engineering,School of Technology,2020
+987,Biology,School of Technology,2022
+988,English Literature,School of Engineering,2025
+989,Engineering,School of Engineering,2022
+990,Computer Science,School of Engineering,2022
+991,English Literature,School of Science,2021
+992,Computer Science,School of Humanities,2020
+993,Psychology,School of Engineering,2022
+994,Economics,School of Social Sciences,2022
+995,Biology,School of Engineering,2022
+996,Engineering,School of Social Sciences,2025
+997,English Literature,School of Arts,2024
+998,Psychology,School of Social Sciences,2020
+999,Mathematics,School of Humanities,2021
+1000,Engineering,School of Humanities,2020
